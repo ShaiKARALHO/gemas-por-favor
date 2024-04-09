@@ -1,4 +1,5 @@
 .principal{
 
     background-image: url(imagens/Combo.png);
+    background-size: contain;
 }
