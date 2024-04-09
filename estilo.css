@@ -1,5 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
 .principal{
 
-    background-image: url(imagens/Combo.png);
+    background-image: url(imagens/Component\ 1.png);
     background-size: contain;
 }
