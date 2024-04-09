@@ -6,6 +6,10 @@
 
 .principal{
 
-    background-image: url(imagens/Component\ 1.png);
+    background-image: url(imagens/background.png);
     background-size: contain;
+}
+
+.container{
+    height: 100vh;
 }
