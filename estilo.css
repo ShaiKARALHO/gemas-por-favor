@@ -16,6 +16,7 @@
     background-image: url(imagens/background.png);
     background-size: contain;
     background-repeat: no-repeat;
+    color: var(--cor-principal);
 }
 
 .container{
