@@ -1,3 +1,10 @@
+:root{
+    --cor-principal: #ffffffff;
+    --cor-secundaria: #c0c0c0;
+    --botao-detaque: #167BF7;
+    --cor-de-fundo: #00030c;
+}
+
 *{
     margin: 0;
     padding: 0;
