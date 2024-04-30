@@ -13,12 +13,26 @@
 
 .principal{
 
-    background-image: url(imagens/background.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    color: var(--cor-principal);
+   background-color: #00030c;
+   background-image: url(imagens/background.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+
 }
 
 .container{
+
     height: 100vh;
+    display:grid;
+    grid-template-columns: 50% 50%;
+}
+
+.container--botao{
+
+    background-color: var(--botao-detaque);
+    color: var(--cor-principal);
+    padding: lem;
+    border-radius: 5px;
+    text-decoration: none;
+    display: block;
 }
