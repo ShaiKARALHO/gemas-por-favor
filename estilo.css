@@ -34,7 +34,7 @@
 
     background-color: var(--botao-detaque);
     color: var(--cor-principal);
-    padding: lem;
+    padding: 1em;
     border-radius: 10px;
     text-decoration: none;
     display: block;
