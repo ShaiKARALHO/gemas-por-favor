@@ -49,11 +49,11 @@
 
 .container--caixa{
 
-    margin: 0 6em
+    margin: 6em
 }
 
 .textinho{
 
     font-size: 15px;
-
+    color: var(--cor-secundaria)
 }
